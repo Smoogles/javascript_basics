@@ -1,0 +1,15 @@
+{
+  "name": "testbasicapp",
+  "version": "1.0.0",
+  "main": "bin/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "hello": "node ."
+  },
+  "author": "macca",
+  "license": "ISC",
+  "description": "",
+  "bin": {
+    "hello": "./bin/index.js"
+  }
+}
